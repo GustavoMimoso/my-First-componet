@@ -1,5 +1,6 @@
 import './App.css'
-import {Profile, Job} from './components/Profile'
+import Profile from './components/Profile'
+import { Job } from './components/Profile'
 
 function App() {
   return (
